@@ -1,0 +1,15 @@
+{
+  "name": "v8-solid",
+  "version": "1.0.0",
+  "description": "This project aims to optimize computing resources while adhering to best coding practices. The focus is on enhancing readability, reliability, maintainability, and testability of the code. Various programming paradigms are explored, including Object-Oriented Programming (OOP), Functional Programming (FP), and procedural approaches.",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "start" : "node index.js",
+    "test": "node --test"
+  },
+  "author": "",
+  "license": "ISC"
+}
